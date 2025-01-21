@@ -1,0 +1,459 @@
+Grilli - Amazing & Delicious Food
+
+This is a Restaurant html template made by JasenCoding
+
+
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Restaurant TitiPapan, Komplek Kota Baru, North Sumatra, Indonesia
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 08.00 am to 10.00 pm
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++62-852-2135-1890
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+Grilli@restaurant.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Grilli - Home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Visit Us
+
+Restaurant TitiPapan, Komplek Kota Baru,
+North Sumatra, Indonesia.
+
+Open: 09.30 am - 2.30pm
+
+Grilli@Restaurant.com
+
+Booking Request
++62-852-2135-1890
+
+Find A Table
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Tradational & Hygine
+
+For the love of
+delicious food
+
+Come with family & feel the joy of mouthwatering food
+
+View Our Menu
+
+delightful experience
+
+Flavors Inspired by
+the Seasons
+
+amazing & delicious
+
+Where every flavor
+tells a story
+
+aria-label = slide to previous
+<ion-icon name="chevron-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="chevron-forward"></ion-icon>
+
+alt = booking icon
+
+Book A Table
+
+
+
+#---------- SERVICE ----------#
+
+Flavors For Royalty
+
+We Offer Top Notch
+
+Kami Menyediakan Layanan Makanan dan Minuman dengan berlatar belakang Sejarah untuk Para Konsumen.
+Selamat Menikmati!!
+
+alt = Breakfast
+
+Breakfast
+View Menu
+
+Appetizers
+
+Drinks
+
+alt = shape
+
+
+
+#---------- ABOUT ----------#
+
+Our Story
+
+Every Fla vor Tells a Story
+
+Restaurant Kami sudah berdiri pada tahun 1950 pada masa orde baru. 
+Restaurant kami memiliki banyak sejarah perang dan sudah ada setelah Konvresi Meja Bundar.
+Dengan adanya restaurant kami, Tentunya Para Konsumen dapat merasakan sejarah masa Lampau di restaurant kami.
+
+Book Through Call
+
++62-852-2135-1890
+
+Read More
+
+alt = about banner
+
+
+
+#---------- SPECIAL DISH ----------#
+
+alt = special dish
+
+alt = badge
+
+Special Dish
+
+Lobster Tortellini
+
+Lobster Tortellini adalah hidangan pasta mewah yang menggabungkan tortellini segar yang diisi dengan campuran daging lobster yang lembut, sering dicampur dengan keju dan rempah-rempah aromatik. 
+Hidangan ini biasanya disajikan dengan saus yang kaya dan lembut, seperti saus bisque lobster, mentega lemon, atau saus krim, yang melengkapi rasa manis alami dari lobster. 
+Sebagai sajian yang elegan, Lobster Tortellini sering menjadi pilihan di restoran kelas atas dan acara khusus, menawarkan perpaduan tekstur yang lembut dan rasa yang mewah.
+
+$40.00
+$20.00
+
+View All Menu
+
+
+
+#---------- MANU ----------#
+
+Special Selection
+
+Delicious Menu
+
+1.
+alt = Greek Salad
+Greek Salad
+
+Seasonal
+$25.50
+Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+
+2.
+alt = Lasagne
+Lasagne
+
+$40.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+3.
+alt = Butternut Pumpkin
+Butternut Pumpkin
+
+$10.00
+It is commonly used in soups, roasted dishes, salads, and purees.
+
+4.
+alt = Tokusen Wagyu
+Tokusen Wagyu
+
+New
+$39.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
+
+5.
+alt = Olivas Rellenas
+Olivas Rellenas
+
+$25.00
+Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
+
+6.
+alt = Opu Fish
+Opu Fish
+
+$49.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+During winter daily from 7:00 pm to 9:00 pm
+
+View All Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+”
+I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
+
+alt = Sam Jhonson
+Sam Jhonson
+
+
+
+#---------- RESERVATION ----------#
+
+Online Reservation
+
+Booking request
++62-852-2135-1890
+or fill out the order form
+
+placeholder = Your Name
+placeholder = Phone Number
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+1 Person
+2 Person
+3 Person
+4 Person
+5 Person
+6 Person
+7 Person
+8 Person
+9 Person
+10 Person
+
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+08 : 00 am
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+placeholder = Message
+
+Book A Table
+
+Contact Us
+
+Booking Request
+
++62-852-2135-1890
+
+Location
+
+Restaurant TitiPapan, Komplek Kota Baru,
+North Sumatra, Indonesia
+
+Lunch Time
+
+Monday to Sunday
+11.00 am - 02.30pm
+
+Dinner Time
+
+Monday to Sunday
+05.00 pm - 10.00pm
+
+
+
+#---------- FEATURES ----------#
+
+Why Choose Us
+
+Our Strength
+
+alt = icon
+
+Hygienic Food
+Hygienic food is free from harmful additives, pesticides, or toxins.
+
+Fresh Environment
+Regular cleaning and waste management ensure hygiene and reduce the spread of diseases.
+
+Skilled Chefs
+A skilled chef who is trusted and has had experience since 1950, with recipes passed down through generations.
+Event & Party
+
+Event & Party
+My restaurant certainly provides events and parties for our customers.
+
+
+
+#---------- EVENT ----------#
+
+Recent Updates
+
+Upcoming Event
+
+alt = Flavour so good you’ll try to eat with your eyes.
+
+15/09/2025
+Food, Flavour
+Flavour so good you’ll try to eat with your eyes.
+
+08/09/2025
+Healthy Food
+
+03/09/2025
+Recipie
+
+View Our Blog
+
+
+
+#---------- FOOTER ----------#
+
+alt = grilli home
+
+Restaurant TitiPapan, Komplek Kota Baru, North Sumatra, Indonesia
+
+Grilli@restaurant.com
+
+Booking Request : +62-852-2135-1890
+
+Open : 09:00 am - 01:00 pm
+
+Get News & Offers
+
+Subscribe us & Get 25% Off.
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Your email
+
+Subscribe
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Facebook
+Instagram
+Twitter
+Youtube
+Google Map
+
+@Restaurant; 2025 Grilli. All Rights Reserved | Crafted by
+
+https://github.com/JasenCoding
+
+JasenCoding
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
+
+
+#---------- MENU PAGE ----------#
+
+
+Delicious & Amazing
+Our Menu
+
+Special Offer
+Best Special Menu
+
+alt = Greek Salad
+Greek Salad
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+
+alt = Greek Salad
+Greek Salad
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+
+
+alt = feature banner
+
+Chef Selection
+Lobster Tortellini
+
+Lobster Tortellini adalah hidangan pasta mewah yang menggabungkan tortellini segar yang diisi dengan campuran daging lobster yang lembut, sering dicampur dengan keju dan rempah-rempah aromatik. 
+Hidangan ini biasanya disajikan dengan saus yang kaya dan lembut, seperti saus bisque lobster, mentega lemon, atau saus krim, yang melengkapi rasa manis alami dari lobster. 
+Sebagai sajian yang elegan, Lobster Tortellini sering menjadi pilihan di restoran kelas atas dan acara khusus, menawarkan perpaduan tekstur yang lembut dan rasa yang mewah.
+
+$40.00
+$20.00
+
+
+
+#---------- MENU PAGE ----------#
+
+Our Story
+About Us
+
+Who We Are
+
+Restaurant Kami sudah berdiri pada tahun 1950 pada masa orde baru. 
+Restaurant kami memiliki banyak sejarah perang dan sudah ada setelah Konvresi Meja Bundar.
+Dengan adanya restaurant kami, Tentunya Para Konsumen dapat merasakan sejarah masa Lampau di restaurant kami.
+
+Andrew Joe - Founder
+
+Lunch Time
+Monday to Sunday
+11.00 am - 02.30pm
+
+Dinner Time
+Monday to Sunday
+05.30 pm - 11.30 pm
+
+Contact Us
+Restaurant TitiPapan, Komplek Kota Baru, North Sumatra, Indonesia
+
++62-852-2135-1890
+Grilli@restaurant.com
